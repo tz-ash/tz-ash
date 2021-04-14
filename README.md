@@ -15,6 +15,12 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
+## Join My Group
+<a href="https://t.me/magiclmush" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+<!-- Your support, if you have it 
+I created these images, feel free to use them.
+-->
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/tz-ash)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](ashlin:ashlinsunil001@gmail.com)
@@ -30,11 +36,6 @@ You can use the website to generate badges: https://shields.io/
 
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
-## Join My Group
-<a href="https://t.me/magiclmush" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
 
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/tz-ash)
