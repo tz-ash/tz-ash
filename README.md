@@ -3,7 +3,7 @@
 
 <a href="https://t.me/tz_me_ash">
 <p align="center">
-  <img src="https://media.giphy.com/media/FqBTvSNjNzeZG/giphy.gif">
+  <img src="https://telegra.ph/file/6da9d6d719a7f25461ffa.jpg">
 </p>
 
 
