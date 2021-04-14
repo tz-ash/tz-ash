@@ -19,9 +19,9 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 
-- 👀 I’m interested in ...🍄
-- 🌱 I’m currently learning ...🤔
-- 💞️ I’m looking to collaborate on ...❓
+- 🐿️ I’m interested in ...🍄
+- 🦄 I’m currently learning ...🤔
+- 🌀 I’m looking to collaborate on ...❓
 - 👻 Fun Fact: I'm Still Student
 - 📫 How to reach me ...  ashlinsun001@gmail.com
 
