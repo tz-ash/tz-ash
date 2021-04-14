@@ -31,6 +31,7 @@ You can use the website to generate badges: https://shields.io/
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/tz-ash)
 - [![GitHub followers](https://img.shields.io/github/followers/tz-ash.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tz-ash?tab=followers)
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <!---
 tz-ash/tz-ash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
