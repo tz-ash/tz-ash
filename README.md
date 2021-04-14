@@ -5,7 +5,10 @@
 <p align="center">
   <img src="https://media.giphy.com/media/FqBTvSNjNzeZG/giphy.gif">
 </p>
-
+|  <a href="https://t.me/tz_me_ash/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|       **[Ashlin](https://t.me/tz_me_ash/)**                                                                                |
+| <a href="https://github.com/tz-ash"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/Ashlin sunil"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/inukaasith7/"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
 
 ## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/tz_me_ash) 
 <br>
