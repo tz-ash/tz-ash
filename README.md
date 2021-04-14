@@ -23,6 +23,7 @@ You can use the website to generate badges: https://shields.io/
 - 🦄 I’m currently learning ...🤔
 - 🌀 I’m looking to collaborate on ...❓
 - 👻 Fun Fact: I'm Still Student
+- 😈 I'm Bad but I'm not Fake
 - 📫 How to reach me ...  ashlinsun001@gmail.com
 
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
