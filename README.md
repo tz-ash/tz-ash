@@ -18,10 +18,11 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](ashlin:ashlinsunil001@gmail.com)
 &nbsp;
 
-- 👋 Hi, I’m @tz-ash
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
+- 👀 I’m interested in ...🍄
+- 🌱 I’m currently learning ...🤔
+- 💞️ I’m looking to collaborate on ...❓
+- 👻 Fun Fact: I'm Still Student
 - 📫 How to reach me ...  ashlinsun001@gmail.com
 
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
