@@ -37,12 +37,7 @@ You can use the website to generate badges: https://shields.io/
 tz-ash/tz-ash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-|  <a href="https://github.com/hirunaofficial/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
-|:-------------------------------------------
---------------------------------------------------
-------------------------------------------: |
-|       **[GD HIRUNA ](https://github.com/hirunaofficial)**                                                                                |
-|<a href="https://twitter.com/hiruna_official"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/hirunaofficial"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/hirunaofficial"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="#"><img 
+ 
 # Follow me on
 <p align="left">
 <a href="https://t.me/tz_me_ash" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
