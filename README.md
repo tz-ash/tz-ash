@@ -1,12 +1,6 @@
 # Psy World 🍁
 
 
-## Join My Group
-<a href="https://t.me/magiclmush" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
-
 # Hey, I am Ashlin Sunil <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <a href="https://t.me/tz_me_ash">
@@ -36,7 +30,11 @@ You can use the website to generate badges: https://shields.io/
 
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
-
+## Join My Group
+<a href="https://t.me/magiclmush" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+<!-- Your support, if you have it 
+I created these images, feel free to use them.
+-->
 
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/tz-ash)
