@@ -1,6 +1,11 @@
 # PSY WORLD 
 
-## 🍄 Join  [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/magiclmush)
+
+## Join My Group
+<a href="https://t.me/magiclmush" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+<!-- Your support, if you have it 
+I created these images, feel free to use them.
+-->
 
 # Hey, I am Ashlin Sunil <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
