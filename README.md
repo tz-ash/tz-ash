@@ -1,6 +1,6 @@
 # Psy World 
 
-# Hey, I am Ashlin Sunil <# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">>
+# Hey, I am Ashlin Sunil  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">>
 
 <a href="https://t.me/tz_me_ash">
 <p align="center">
