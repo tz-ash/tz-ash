@@ -1,4 +1,4 @@
-# Psy World 
+# Psy World 🍁
 
 # Hey, I am Ashlin Sunil  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
 
@@ -32,7 +32,7 @@ I created these images, feel free to use them.
 - 🌀 I’m looking to collaborate on ...❓
 - 👻 Fun Fact: I'm Still Student
 - 😈 I'm Bad but I'm not Fake
-- 📫 How to reach me ...  ashlinsun001@gmail.com
+- 📫 How to reach me ...  ashlinsunil404@gmail.com
 
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
