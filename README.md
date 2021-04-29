@@ -3,13 +3,13 @@
 # Hey, I am Ashlin Sunil  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
 
 
-<a href="https://t.me/tz_me_ash">
+<a href="https://t.me/kid_of_telegram">
 <p align="center">
   <img src="https://telegra.ph/file/6da9d6d719a7f25461ffa.jpg">
 </p>
 
 
-## 🍄 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/tz_me_ash) 
+## 🍄 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/kid_of_telegram) 
 <br>
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
