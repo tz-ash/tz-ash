@@ -5,7 +5,7 @@
 
 <a href="https://t.me/kid_of_telegram">
 <p align="center">
-  <img src="https://telegra.ph/file/6da9d6d719a7f25461ffa.jpg">
+  <img src="https://telegra.ph/file/1bc3bbf6396830f0dfe4c.jpg">
 </p>
 
 
