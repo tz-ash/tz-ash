@@ -38,7 +38,8 @@ I created these images, feel free to use them.
 
 
 # GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/tz-ash)
+- ![tz-ash's github stats](https://github-readme-stats.vercel.app/api?username=tz-ash&show_icons=true&theme=cobalt&count_private=true)
+
 - [![GitHub followers](https://img.shields.io/github/followers/tz-ash.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tz-ash?tab=followers)
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
