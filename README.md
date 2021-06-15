@@ -39,7 +39,7 @@ I created these images, feel free to use them.
 
 # GITHUB STATUS.
 
-- [![dq anshi github stats](https://github-readme-stats.vercel.app/api?username=tz-ash&show_icons=true&theme=cobalt&count_private=true)](https://github.com/tz-ash)
+
 
 - ![tz-ash's github stats](https://github-readme-stats.vercel.app/api?username=tz-ash&show_icons=true&theme=cobalt&count_private=true)
 
