@@ -1,4 +1,4 @@
-# Psy World 🍄
+# Psy World 🍄src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
 # Hey, I am Ashlin Sunil  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
 
