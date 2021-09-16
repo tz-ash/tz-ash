@@ -16,7 +16,7 @@
 
 |  <a href="https://t.me/kidhub/"><img src="https://telegra.ph/file/b9cb9092d60e42ed58c0f.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[tz-ash](https://t.me/tzkid)**                                                                                |
+|       **[tz-kid](https://t.me/tzkid)**                                                                                |
 
 ## Join My Group
 <a href="https://t.me/magiclmush" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
