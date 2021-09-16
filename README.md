@@ -2,8 +2,8 @@
 
 # Hey, I am Ashlin Sunil  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
 
-  ![My card name](https://cardivo.vercel.app/api?name=kid%20bot&description=Hi,%20i%27m%20a%20%20%20simple%20kanger%20and%20i%27m%2017%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/85840062?v=4&backgroundColor=%23ecf0f1&github=tz-ash&pattern=leaf&colorPattern=%23eaeaea)
-</p>
+  
+![My card name](https://cardivo.vercel.app/api?name=kid%20-%20ash&description=Hi,%20I'm%20a%20simple%20kanger%20🍄&image=https://i.imgur.com/MZDCN2M.jpeginstagram=tz_.ash&twitter=kidprobot&github=tz-ash&twitter=@)
 
 
 <a href="https://t.me/kid_of_telegram">
