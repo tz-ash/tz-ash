@@ -6,11 +6,7 @@
 
 
 
-<a href="https://t.me/kid_of_telegram">
-<p align="center">
-  <img src="https://telegra.ph/file/1bc3bbf6396830f0dfe4c.jpg">
-</p>
-
+<h1 align="center"> <img src="https://telegra.ph/file/6df3400b7bae50a05f713.png" width="1000px"></h1>
 
 ## Reach out to me 👻
 
