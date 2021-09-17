@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center"> <img src="https://telegra.ph/file/6df3400b7bae50a05f713.png" width="1000px"></h1>
+<h1 align="center"> <img src="https://telegra.ph/file/d87d8609274d08b357023.png" width="1000px"></h1>
 
 ## Reach out to me 👻
 
