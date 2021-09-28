@@ -24,15 +24,13 @@ I created these images, feel free to use them.
 &nbsp;
 
 <img width="42%" align="right" alt="Github" src="https://telegra.ph/file/74806217c0bb7cfa52971.jpg" />
+
 - 🐿️ I’m interested in ...🍄
 - 🦄 I’m currently learning ...🤔
 - 🌀 I’m looking to collaborate on ...❓
 - 👻 Fun Fact: I'm Still Student
 - 😈 I'm Bad but I'm not Fake
 - 📫 How to reach me ...  ashlinsunil404@gmail.com
-
-[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
-
 
 # GITHUB STATUS.
 
