@@ -23,7 +23,7 @@ I created these images, feel free to use them.
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](ashlin:ashlinsunil001@gmail.com)
 &nbsp;
 
-
+<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/74806217c0bb7cfa52971.jpg" />
 - 🐿️ I’m interested in ...🍄
 - 🦄 I’m currently learning ...🤔
 - 🌀 I’m looking to collaborate on ...❓
