@@ -7,9 +7,10 @@
 
 ## Reach out to me 👻
 
-|  <a href="https://t.me/kidhub/"><img src="https://telegra.ph/file/b9cb9092d60e42ed58c0f.jpg" width="150px" height="150px" /></a> |
+|  <a href="https://www.instagram.com/tz_.ash"><img src="https://telegra.ph/file/74806217c0bb7cfa52971.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[tz-kid](https://t.me/tzkid)**                                                                                |
+|                                                                                   |
+|[![Telegram](https://img.shields.io/badge/Telegram-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/tzkid)&nbsp;                                                                               |
 
 ## Join My Group
 <a href="https://t.me/magiclmush" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
