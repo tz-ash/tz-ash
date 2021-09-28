@@ -2,7 +2,7 @@
 
 # Hey, I am Ashlin Sunil  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hi+I'm+Ashlin+@kidhub)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Tz+meh+kid lol+@kidhub)](https://git.io/typing-svg) 
 
 
 ## Reach out to me 👻
