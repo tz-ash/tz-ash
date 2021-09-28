@@ -2,12 +2,6 @@
 
 # Hey, I am Ashlin Sunil  <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
 
-   
-
-
-
-<h1 align="center"> <img src="https://telegra.ph/file/d87d8609274d08b357023.png" width="1000px"></h1>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hi+I'm+Ashlin+@kidhub)](https://git.io/typing-svg) 
 
 
