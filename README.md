@@ -1,13 +1,13 @@
 # Psy World <img src="https://64.media.tumblr.com/1bef7a46c8e5acfe80c6e18872e8852e/8e74a27b5a55bf10-4e/s500x750/3dc10b9bda0f69360315287b633d9cbb58ea8f56.gifv" width="70px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hey+I'm+Ashlin+@kidhub)](https://t.me/kidhub) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hey+I'm+Ashlin+Sunil)](https://t.me/kidhub) 
 
 ## Reach out to me 👻
 
 |  <a href="https://www.instagram.com/tz_.ash"><img src="https://telegra.ph/file/74806217c0bb7cfa52971.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                   |
-|[![Telegram](https://img.shields.io/badge/Telegram-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/tzkid)&nbsp;                                                                               |
+|[![Telegram](https://img.shields.io/badge/Telegram-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/kidhub)&nbsp;                                                                               |
 
 ## Join My Group
 <a href="https://t.me/magiclmush" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
