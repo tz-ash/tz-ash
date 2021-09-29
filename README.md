@@ -29,8 +29,6 @@ I created these images, feel free to use them.
 - 😈 I'm Bad but I'm not Fake
 - 📫 How to reach me ...  ashlinsunil404@gmail.com
 
-href="https://www.instagram.com/Dihanrandila"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                                                                               <a href="https://www.youtube.com/channel/UCJYoog0kYNDridrBlcvwMoQ"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>              <a href="https://twitter.com/Dihanrandila"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="32px" height="32px">
-
 # GITHUB STATUS.
 
 - ![Profile views](https://gpvc.arturio.dev/tz-ash)
