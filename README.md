@@ -9,7 +9,7 @@
 |                                                                                   |
 |[![Telegram](https://img.shields.io/badge/Telegram-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/kidhub)&nbsp;                                                                               |
 
-## Join My Group 🍄
+## Join My Group 
 <a href="https://t.me/magiclmush" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
