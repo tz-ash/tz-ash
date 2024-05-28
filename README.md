@@ -5,7 +5,7 @@
 </p>
 
 
-[<img src="https://telegra.ph/file/a06f8363f758a8f42fc22.jpg" />](https://github.com/tz-kid)
+[<img src="https://telegra.ph/file/a06f8363f758a8f42fc22.jpg" />](https://github.com/tz-ash)
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
 
