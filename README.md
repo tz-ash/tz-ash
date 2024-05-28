@@ -31,7 +31,7 @@
 
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
-<a href="https://t.me/CLXGN"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/kidhub"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
 
     
