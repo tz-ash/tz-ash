@@ -46,7 +46,7 @@
 
 
 
-## <b>Connect with Me</b><br>
+## <h1>Connect with Me</h1>
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/tz-ash)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/amkidbot)
