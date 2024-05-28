@@ -15,7 +15,7 @@
 
 
 
-## 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
+## 𝗦𝗧𝗔𝗧𝗦
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tz-ash&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tz-ash&layout=compact&theme=midnight-purple&hide=Css)
@@ -32,7 +32,7 @@
 
 
 <details>
-<summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
+<summary><b>𝗦𝗨𝗣𝗣𝗢𝗥𝗧</b></summary>
 <a href="https://t.me/kidhub"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
 
@@ -46,7 +46,7 @@
 
 
 
-## 𝗖𝗼𝗻𝗻𝗲𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲
+## 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗠𝗘
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/tz-ash)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/amkidbot)
