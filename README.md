@@ -15,7 +15,7 @@
 
 
 
-## My Stats
+## <b>My Stats</b><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tz-ash&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tz-ash&layout=compact&theme=midnight-purple&hide=Css)
@@ -46,7 +46,7 @@
 
 
 
-## Connect with Me
+## <b>Connect with Me</b><br>
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/tz-ash)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/amkidbot)
