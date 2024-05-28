@@ -1,4 +1,4 @@
-   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐀𝐦-𝐊𝐢𝐝+🖤+🥀"></b></h3>
+   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=🩷+🦄+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐀𝐦-𝐊𝐢𝐝+🍉+🫧"></b></h3>
 
 <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/tz-ash/count.svg" />
@@ -17,17 +17,17 @@
 
 ## My Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHALCOGEN645&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHALCOGEN645&layout=compact&theme=midnight-purple&hide=Css)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tz-ash&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tz-ash&layout=compact&theme=midnight-purple&hide=Css)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tz-ash)
 
 
-[<img src="https://github.com/CHALCOGEN645/CHALCOGEN645/blob/master/resources/hr.gif"/>](https://github.com/tz-ash)
+[<img src="https://github.com/tz-ash/tz-ash/blob/master/resources/hr.gif"/>](https://github.com/tz-ash)
 
 <h1> <img src="https://te.legra.ph/file/1f5f400d5a16ae3a89343.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="[https://telegra.ph/file/366929fa7ea5bcf420133.jpg](https://telegra.ph/file/b5c6a6111a8815aed2d5d.jpg))" width="60px">](https://tg://openmessage?user_id=7091240816) [<img src="[https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg](https://telegra.ph/file/5767ae19c9900e8a1355d.jpg)" width="60px">](https://github.com/tz-ash) 
+[<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://tg://openmessage?user_id=7091240816) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/tz-ash) 
 
 
 
