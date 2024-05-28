@@ -4,8 +4,10 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/tz-ash/count.svg" />
 </p>
 
-[<img src="[https://telegra.ph/file/c8feb585b6b277f9242c6.jpg]" />](https://github.com/tz-ash)
+
+[<img src="https://telegra.ph/file/a06f8363f758a8f42fc22.jpg" />](https://github.com/tz-kid)
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+
 
 [<img src="https://github-readme-stats.vercel.app/api?username=tz-ash&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Noob-Mukesh)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=tz-ash&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/tz-ash)
 
