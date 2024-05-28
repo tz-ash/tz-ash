@@ -25,7 +25,7 @@
 
 <h1> <img src="https://te.legra.ph/file/1f5f400d5a16ae3a89343.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="[https://te.legra.ph/file/3f6810f790713b26fe826.jpg]([https://telegra.ph/file/366929fa7ea5bcf420133.jpg](https://telegra.ph/file/b5c6a6111a8815aed2d5d.jpg))" width="60px">](https://tg://openmessage?user_id=7091240816) [<img src="[https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg](https://telegra.ph/file/5767ae19c9900e8a1355d.jpg)" width="60px">](https://github.com/tz-ash) 
+[<img src="[https://telegra.ph/file/366929fa7ea5bcf420133.jpg](https://telegra.ph/file/b5c6a6111a8815aed2d5d.jpg))" width="60px">](https://tg://openmessage?user_id=7091240816) [<img src="[https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg](https://telegra.ph/file/5767ae19c9900e8a1355d.jpg)" width="60px">](https://github.com/tz-ash) 
 
 
 
