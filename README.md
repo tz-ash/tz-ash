@@ -4,7 +4,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/tz-ash/count.svg" />
 </p>
 
-[<img src="https://telegra.ph/file/c8feb585b6b277f9242c6.jpg" />](https://github.com/tz-ash)
+[<img src="[https://telegra.ph/file/c8feb585b6b277f9242c6.jpg](https://telegra.ph/file/a06f8363f758a8f42fc22.jpg)" />](https://github.com/tz-ash)
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=tz-ash&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Noob-Mukesh)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=tz-ash&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/tz-ash)
@@ -25,7 +25,7 @@
 
 <h1> <img src="https://te.legra.ph/file/1f5f400d5a16ae3a89343.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://tg://openmessage?user_id=7091240816) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/tz-ash) 
+[<img src="[https://te.legra.ph/file/3f6810f790713b26fe826.jpg]([https://telegra.ph/file/366929fa7ea5bcf420133.jpg](https://telegra.ph/file/b5c6a6111a8815aed2d5d.jpg))" width="60px">](https://tg://openmessage?user_id=7091240816) [<img src="[https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg](https://telegra.ph/file/5767ae19c9900e8a1355d.jpg)" width="60px">](https://github.com/tz-ash) 
 
 
 
