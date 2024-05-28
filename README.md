@@ -1,31 +1,50 @@
-# Psy World <img src="https://64.media.tumblr.com/1bef7a46c8e5acfe80c6e18872e8852e/8e74a27b5a55bf10-4e/s500x750/3dc10b9bda0f69360315287b633d9cbb58ea8f56.gifv" width="70px">
+   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐀𝐦-𝐊𝐢𝐝+🖤+🥀"></b></h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hey+I'm+Ashlin+Sunil)](https://t.me/kidhub) 
+<b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/tz-ash/count.svg" />
+</p>
 
-## Reach out to me 👻
+[<img src="https://telegra.ph/file/c8feb585b6b277f9242c6.jpg" />](https://github.com/tz-ash)
+<h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
-|  <a href="https://www.instagram.com/am_.kid"><img src="https://telegra.ph/file/74806217c0bb7cfa52971.jpg" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                   |
-|[![Telegram](https://img.shields.io/badge/Telegram-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/kidhub)&nbsp;                                                                               |
+[<img src="https://github-readme-stats.vercel.app/api?username=tz-ash&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Noob-Mukesh)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=tz-ash&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/tz-ash)
 
-## Join My Group 🍄
-<a href="https://t.me/magiclmush" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/tz-ash)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](ashlin:ashlinsunil001@gmail.com)
-&nbsp;
 
-<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/39adbd9ed181ec4af6347.jpg" />
 
-- 🐿️ I’m interested in ...🍄
-- 🦄 I’m currently learning ...🤔
-- 🌀 I’m looking to collaborate on ...❓
-- 👻 Fun Fact: I'm Still Student
-- 😈 I'm Bad but I'm not Fake
-- 📫 How to reach me ...  ashlinsunil001@gmail.com
 
+## My Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHALCOGEN645&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHALCOGEN645&layout=compact&theme=midnight-purple&hide=Css)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tz-ash)
+
+
+[<img src="https://github.com/CHALCOGEN645/CHALCOGEN645/blob/master/resources/hr.gif"/>](https://github.com/tz-ash)
+
+<h1> <img src="https://te.legra.ph/file/1f5f400d5a16ae3a89343.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+
+[<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://tg://openmessage?user_id=7091240816) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/tz-ash) 
+
+
+
+<details>
+<summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
+<a href="https://t.me/CLXGN"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+</details>
+
+    
+
+        
+
+
+
+
+
+
+
+## Connect with Me
+
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/tz-ash)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/amkidbot)
