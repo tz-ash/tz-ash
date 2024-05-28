@@ -1,4 +1,4 @@
-   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=🩷+🦄+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐀𝐦-𝐊𝐢𝐝+🍉+🫧"></b></h3>
+   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=🩷+🦄+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐀𝐌-𝐊𝐈𝐃+🍉+🫧"></b></h3>
 
 <b>𝗩𝗜𝗦𝗧𝗢𝗥𝗦</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/tz-ash/count.svg" />
